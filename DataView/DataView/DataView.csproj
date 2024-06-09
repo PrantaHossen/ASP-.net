@@ -183,6 +183,8 @@
     <Content Include="Views\Home\Projects.cshtml" />
     <Content Include="Views\Home\Certification.cshtml" />
     <Content Include="Views\Home\Refer.cshtml" />
+    <Content Include="Views\Home\SignUp.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
