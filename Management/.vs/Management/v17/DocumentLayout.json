@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub-Pranta\\ASP-.net\\Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Management\\Views\\Home\\Courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Management\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Management\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Management\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Management\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Courses.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Courses.cshtml",
+              "RelativeDocumentMoniker": "Management\\Views\\Home\\Courses.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Courses.cshtml",
+              "RelativeToolTip": "Management\\Views\\Home\\Courses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T16:38:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Management\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Management\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T16:38:17.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Management\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Management\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T16:34:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Management\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Management\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T16:32:40.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Management\\Management\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Management\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:32:06.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

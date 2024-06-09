@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Education";
+}
+
+<h2>Education</h2>
+
+<table class="table table-bordered">
+    @foreach (var item in ViewBag.EducationInfo)
+    {
+        if (item.Year == 2020)
+        {
+            <li>
+                <b>HSC</b>
+                <ul>
+                    <li>@item.Year</li>
+                    <li>@item.Group</li>
+                    <li>@item.Ins</li>
+                </ul>
+            </li>
+        }
+        else if (item.Year == 2018)
+        {
+
+            <li>
+                <b>SSC</b>
+                <ul>
+                    <li>@item.Year</li>
+                    <li>@item.Group</li>
+                    <li>@item.Ins</li>
+                </ul>
+            </li>
+        }
+    }
+</table>

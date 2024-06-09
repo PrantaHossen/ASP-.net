@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\models\\projectsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\models\\projectsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|d:\\github-pranta\\asp-.net\\dataview\\dataview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\views\\home\\refer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\views\\home\\refer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\models\\referinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\models\\referinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\models\\educationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\models\\educationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|D:\\GitHub-Pranta\\ASP-.net\\DataView\\dataview\\views\\home\\certification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FA8344-1A58-4698-A82A-9511AFA4690E}|DataView\\DataView.csproj|solutionrelative:dataview\\views\\home\\certification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DataView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:02:02.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Certification.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Certification.cshtml",
+              "RelativeDocumentMoniker": "DataView\\Views\\Home\\Certification.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Certification.cshtml",
+              "RelativeToolTip": "DataView\\Views\\Home\\Certification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:02:59.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "DataView\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "DataView\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:02:49.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Education.cshtml",
+              "RelativeDocumentMoniker": "DataView\\Views\\Home\\Education.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Education.cshtml",
+              "RelativeToolTip": "DataView\\Views\\Home\\Education.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:02:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReferInfo.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\ReferInfo.cs",
+              "RelativeDocumentMoniker": "DataView\\Models\\ReferInfo.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\ReferInfo.cs",
+              "RelativeToolTip": "DataView\\Models\\ReferInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:10:30.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Refer.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Refer.cshtml",
+              "RelativeDocumentMoniker": "DataView\\Views\\Home\\Refer.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Home\\Refer.cshtml",
+              "RelativeToolTip": "DataView\\Views\\Home\\Refer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:03:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DataView\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DataView\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwDwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:54:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectsInfo.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\ProjectsInfo.cs",
+              "RelativeDocumentMoniker": "DataView\\Models\\ProjectsInfo.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\ProjectsInfo.cs",
+              "RelativeToolTip": "DataView\\Models\\ProjectsInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:10:18.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonalInfo.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\PersonalInfo.cs",
+              "RelativeDocumentMoniker": "DataView\\Models\\PersonalInfo.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\PersonalInfo.cs",
+              "RelativeToolTip": "DataView\\Models\\PersonalInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:09:51.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EducationInfo.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\EducationInfo.cs",
+              "RelativeDocumentMoniker": "DataView\\Models\\EducationInfo.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Models\\EducationInfo.cs",
+              "RelativeToolTip": "DataView\\Models\\EducationInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:10:06.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DataView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\DataView\\DataView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DataView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:50:20.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

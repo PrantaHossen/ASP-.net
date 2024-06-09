@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <div>
+        <h1>
+            Welcome....
+        </h1>
+        <table class="table table-bordered">
+            <tr class="table-dark">
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Degree</th>
+                <th>Expertise</th>
+            </tr>
+            @foreach (var item in ViewBag.personalInfo)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td>@item.Degree</td>
+                    <td>@item.Expertise</td>
+                </tr>
+            }
+        </table>
+    </div>
+</main>

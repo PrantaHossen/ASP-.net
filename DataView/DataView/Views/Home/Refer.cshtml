@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Refer";
+}
+
+<h2>Refer</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Designation</th>
+
+    </tr>
+    @foreach (var item in ViewBag.ReferInfo)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Designation</td>
+        </tr>
+    }
+</table>
+
