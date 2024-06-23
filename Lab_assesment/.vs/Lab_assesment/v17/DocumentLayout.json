@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\dtos\\coursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\dtos\\coursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|d:\\github-pranta\\asp-.net\\lab_assesment\\lab_assesment\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{16687C53-EAE9-438A-A851-24782281475C}|Lab_assesment\\Lab_assesment.csproj|solutionrelative:lab_assesment\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab_assesment\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab_assesment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:38:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesDTO.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\DTOs\\CoursesDTO.cs",
+              "RelativeDocumentMoniker": "Lab_assesment\\DTOs\\CoursesDTO.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\DTOs\\CoursesDTO.cs",
+              "RelativeToolTip": "Lab_assesment\\DTOs\\CoursesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:51:40.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Lab_assesment\\Views\\Web.config",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Views\\Web.config",
+              "RelativeToolTip": "Lab_assesment\\Views\\Web.config",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-23T06:50:02.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "Lab_assesment\\EF\\Model1.edmx",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Lab_assesment\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-23T06:49:10.727Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Web.config",
+              "RelativeDocumentMoniker": "Lab_assesment\\Web.config",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Web.config",
+              "RelativeToolTip": "Lab_assesment\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-23T06:44:46.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Lab_assesment\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Lab_assesment\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:41:33.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab_assesment\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Lab_assesment\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:07:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab_assesment\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\GitHub-Pranta\\ASP-.net\\Lab_assesment\\Lab_assesment\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Lab_assesment\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:12:22.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
