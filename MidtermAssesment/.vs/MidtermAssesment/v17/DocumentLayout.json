@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\MidtermAssesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|d:\\document\\midtermassesment\\midtermassesment\\ef\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:midtermassesment\\ef\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|d:\\document\\midtermassesment\\midtermassesment\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:midtermassesment\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|d:\\document\\midtermassesment\\midtermassesment\\views\\admin\\creatauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:midtermassesment\\views\\admin\\creatauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\AuthorDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\DTOs\\AuthorDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\Authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Admin\\Authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Login\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Login\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\SignUpDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\DTOs\\SignUpDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\ReviewDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\DTOs\\ReviewDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|d:\\document\\midtermassesment\\midtermassesment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:midtermassesment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|d:\\document\\midtermassesment\\midtermassesment\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:midtermassesment\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|d:\\document\\midtermassesment\\midtermassesment\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:midtermassesment\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|d:\\document\\midtermassesment\\midtermassesment\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:midtermassesment\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\Logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Authorization\\Logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_UserLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Shared\\_UserLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\User\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\ReviewList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\User\\ReviewList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\CreatReview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\User\\CreatReview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\DeleteAuthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Admin\\DeleteAuthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\AdminAuthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Authorization\\AdminAuthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\EditAuthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Admin\\EditAuthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\MemeberAuthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Authorization\\MemeberAuthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Books\\CreateBooksDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Books\\CreateBooksDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Shared\\_AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\EditReview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\User\\EditReview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\BooksDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\DTOs\\BooksDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\DeleteReview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\User\\DeleteReview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\SignUpController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Controllers\\SignUpController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\SignUp\\SignUp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE5BA5AE-F5FC-45E9-99D6-102A54E1061B}|MidtermAssesment\\MidtermAssesment.csproj|solutionrelative:MidtermAssesment\\Views\\SignUp\\SignUp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\EF\\Author.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\EF\\Author.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\EF\\Author.cs",
+              "RelativeToolTip": "MidtermAssesment\\EF\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:28:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "MidtermAssesment\\EF\\Model1.edmx",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MidtermAssesment\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-05T19:27:44.186Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatAuthor.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\CreatAuthor.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Admin\\CreatAuthor.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\CreatAuthor.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Admin\\CreatAuthor.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T19:26:35.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Web.config",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Web.config",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Web.config",
+              "RelativeToolTip": "MidtermAssesment\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAADRAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T19:23:15.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MidtermAssesment\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAawB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:28:24.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authorlist.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\Authorlist.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Admin\\Authorlist.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\Authorlist.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Admin\\Authorlist.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:05:42.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\DTOs\\ReviewDTO.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\ReviewDTO.cs",
+              "RelativeToolTip": "MidtermAssesment\\DTOs\\ReviewDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:31:16.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T05:50:30.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUpDTO.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\SignUpDTO.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\DTOs\\SignUpDTO.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\SignUpDTO.cs",
+              "RelativeToolTip": "MidtermAssesment\\DTOs\\SignUpDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBsAAADHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:22:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\DTOs\\AuthorDTO.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\AuthorDTO.cs",
+              "RelativeToolTip": "MidtermAssesment\\DTOs\\AuthorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:59:45.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MidtermAssesment\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:43:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T19:22:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T19:22:52.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreatReview.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\CreatReview.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\User\\CreatReview.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\CreatReview.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\User\\CreatReview.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:32:34.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReviewList.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\ReviewList.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\User\\ReviewList.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\ReviewList.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\User\\ReviewList.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:30:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "MidtermAssesment\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:22:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MidtermAssesment\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:43:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T06:49:22.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:34:31.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\Logged.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Authorization\\Logged.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\Logged.cs",
+              "RelativeToolTip": "MidtermAssesment\\Authorization\\Logged.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:22:10.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MidtermAssesment\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:13:21.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteAuthor.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\DeleteAuthor.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Admin\\DeleteAuthor.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\DeleteAuthor.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Admin\\DeleteAuthor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:42:20.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminAuthorization.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\AdminAuthorization.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Authorization\\AdminAuthorization.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\AdminAuthorization.cs",
+              "RelativeToolTip": "MidtermAssesment\\Authorization\\AdminAuthorization.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:25:29.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditAuthor.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\EditAuthor.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Admin\\EditAuthor.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\EditAuthor.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Admin\\EditAuthor.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:42:01.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MemeberAuthorization.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\MemeberAuthorization.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Authorization\\MemeberAuthorization.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Authorization\\MemeberAuthorization.cs",
+              "RelativeToolTip": "MidtermAssesment\\Authorization\\MemeberAuthorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:14:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:09:41.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateBooksDetails.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Books\\CreateBooksDetails.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Books\\CreateBooksDetails.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Books\\CreateBooksDetails.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Books\\CreateBooksDetails.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:10:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:14:25.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:24:08.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditReview.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\EditReview.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\User\\EditReview.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\EditReview.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\User\\EditReview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:58:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BooksDTO.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\BooksDTO.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\DTOs\\BooksDTO.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\DTOs\\BooksDTO.cs",
+              "RelativeToolTip": "MidtermAssesment\\DTOs\\BooksDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:00:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteReview.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\DeleteReview.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\User\\DeleteReview.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\User\\DeleteReview.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\User\\DeleteReview.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:03:57.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Controllers\\SignUpController.cs",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "MidtermAssesment\\Controllers\\SignUpController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:19:52.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T05:35:25.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\SignUp\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "MidtermAssesment\\Views\\SignUp\\SignUp.cshtml",
+              "ToolTip": "D:\\Document\\MidtermAssesment\\MidtermAssesment\\Views\\SignUp\\SignUp.cshtml",
+              "RelativeToolTip": "MidtermAssesment\\Views\\SignUp\\SignUp.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T05:39:23.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

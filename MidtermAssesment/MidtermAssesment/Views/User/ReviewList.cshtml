@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MidtermAssesment.DTOs.ReviewDTO>
+
+@{
+    ViewBag.Title = "ReviewList";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>ReviewList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreatReview")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ReviewID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User_Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Contents)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Timestamp)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReviewID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User_Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BookID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Contents)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Timestamp)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

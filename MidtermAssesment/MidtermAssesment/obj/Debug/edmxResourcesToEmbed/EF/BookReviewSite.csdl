@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MidAssesmentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="AuthorID" />
+    </Key>
+    <Property Name="AuthorID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Biography" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Books" Relationship="MidAssesmentModel.FK_Books_Author" FromRole="Author" ToRole="Book" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="BookID" />
+    </Key>
+    <Property Name="BookID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AuthorID" Type="Int32" Nullable="false" />
+    <Property Name="Genre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PublicationDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Books1" Relationship="Self.FK_Books_Books" FromRole="Books" ToRole="Books1" />
+    <NavigationProperty Name="Book1" Relationship="Self.FK_Books_Books" FromRole="Books1" ToRole="Books" />
+    <NavigationProperty Name="Recommendations" Relationship="Self.FK_Recommendations_Books" FromRole="Books" ToRole="Recommendations" />
+    <NavigationProperty Name="Reviews" Relationship="Self.FK_Reviews_Books" FromRole="Books" ToRole="Reviews" />
+    <NavigationProperty Name="Author" Relationship="MidAssesmentModel.FK_Books_Author" FromRole="Book" ToRole="Author" />
+  </EntityType>
+  <EntityType Name="Recommendation">
+    <Key>
+      <PropertyRef Name="RecommendationID" />
+    </Key>
+    <Property Name="RecommendationID" Type="Int32" Nullable="false" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="BookID" Type="Int32" Nullable="false" />
+    <Property Name="Reasons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Book" Relationship="Self.FK_Recommendations_Books" FromRole="Recommendations" ToRole="Books" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Recommendations_Users" FromRole="Recommendations" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Review">
+    <Key>
+      <PropertyRef Name="ReviewID" />
+    </Key>
+    <Property Name="ReviewID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="BookID" Type="Int32" Nullable="false" />
+    <Property Name="Contents" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Timestamp" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Book" Relationship="Self.FK_Reviews_Books" FromRole="Reviews" ToRole="Books" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Reviews_Users" FromRole="Reviews" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="User_Id" />
+    </Key>
+    <Property Name="User_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Recommendations" Relationship="Self.FK_Recommendations_Users" FromRole="Users" ToRole="Recommendations" />
+    <NavigationProperty Name="Reviews" Relationship="Self.FK_Reviews_Users" FromRole="Users" ToRole="Reviews" />
+  </EntityType>
+  <Association Name="FK_Books_Books">
+    <End Role="Books" Type="Self.Book" Multiplicity="1" />
+    <End Role="Books1" Type="Self.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="BookID" />
+      </Principal>
+      <Dependent Role="Books1">
+        <PropertyRef Name="AuthorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Recommendations_Books">
+    <End Role="Books" Type="Self.Book" Multiplicity="1" />
+    <End Role="Recommendations" Type="Self.Recommendation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="BookID" />
+      </Principal>
+      <Dependent Role="Recommendations">
+        <PropertyRef Name="BookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reviews_Books">
+    <End Role="Books" Type="Self.Book" Multiplicity="1" />
+    <End Role="Reviews" Type="Self.Review" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="BookID" />
+      </Principal>
+      <Dependent Role="Reviews">
+        <PropertyRef Name="BookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Recommendations_Users">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Recommendations" Type="Self.Recommendation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Recommendations">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reviews_Users">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Reviews" Type="Self.Review" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Reviews">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MidAssesmentEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="Self.Author" />
+    <EntitySet Name="Books" EntityType="Self.Book" />
+    <EntitySet Name="Recommendations" EntityType="Self.Recommendation" />
+    <EntitySet Name="Reviews" EntityType="Self.Review" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Books_Books" Association="Self.FK_Books_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Books1" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Recommendations_Books" Association="Self.FK_Recommendations_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Recommendations" EntitySet="Recommendations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reviews_Books" Association="Self.FK_Reviews_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Reviews" EntitySet="Reviews" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Recommendations_Users" Association="Self.FK_Recommendations_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Recommendations" EntitySet="Recommendations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reviews_Users" Association="Self.FK_Reviews_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Reviews" EntitySet="Reviews" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Author" Association="MidAssesmentModel.FK_Books_Author">
+      <End Role="Author" EntitySet="Authors" />
+      <End Role="Book" EntitySet="Books" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Books_Author">
+    <End Type="MidAssesmentModel.Author" Role="Author" Multiplicity="1" />
+    <End Type="MidAssesmentModel.Book" Role="Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Author">
+        <PropertyRef Name="AuthorID" />
+      </Principal>
+      <Dependent Role="Book">
+        <PropertyRef Name="AuthorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
