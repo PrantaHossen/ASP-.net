@@ -42,7 +42,7 @@ namespace DefaultRoutings.Controllers
             return "New Department Added SuccessFully";
         }
 
-        public string Put()
+        public string Put(int d, DepartmentModel dept)
         {
             return "This is from Put Method";
         }
