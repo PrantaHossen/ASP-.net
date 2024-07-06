@@ -20,8 +20,8 @@ namespace UMSRouting.Models
             this.Students = new HashSet<Student>();
         }
     
-        public int Department_Id { get; set; }
-        public string Name { get; set; }
+        public int Dept_Id { get; set; }
+        public string Dept_Name { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Student> Students { get; set; }

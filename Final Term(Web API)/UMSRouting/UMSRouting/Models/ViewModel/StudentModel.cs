@@ -8,11 +8,11 @@ namespace UMSRouting.Models.ViewModel
     public class StudentModel
     {
         public int Student_Id { get; set; }
-        public string Name { get; set; }
-        public string Dob { get; set; }
-        public string Gender { get; set; }
-        public string Cgpa { get; set; }
+        public string Student_Name { get; set; }
+        public System.DateTime Student_DOB { get; set; }
+        public string Student_Gender { get; set; }
         public int Department_Id { get; set; }
+        public decimal Student_CGPA { get; set; }
 
         public virtual DepartmentModel Department { get; set; }
     }

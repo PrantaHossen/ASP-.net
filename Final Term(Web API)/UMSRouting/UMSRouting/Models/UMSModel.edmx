@@ -7,28 +7,28 @@
       <Schema Namespace="UMSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Departments">
           <Key>
-            <PropertyRef Name="Department_Id" />
+            <PropertyRef Name="Dept_Id" />
           </Key>
-          <Property Name="Department_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-          <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Dept_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Dept_Name" Type="varchar" MaxLength="50" Nullable="false" />
         </EntityType>
         <EntityType Name="Students">
           <Key>
             <PropertyRef Name="Student_Id" />
           </Key>
-          <Property Name="Student_Id" Type="int" Nullable="false" />
-          <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
-          <Property Name="Dob" Type="varchar" MaxLength="50" Nullable="false" />
-          <Property Name="Gender" Type="varchar" MaxLength="50" Nullable="false" />
-          <Property Name="Cgpa" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Student_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Student_Name" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Student_DOB" Type="date" Nullable="false" />
+          <Property Name="Student_Gender" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="Department_Id" Type="int" Nullable="false" />
+          <Property Name="Student_CGPA" Type="decimal" Precision="18" Scale="2" Nullable="false" />
         </EntityType>
-        <Association Name="FK_Students_Deparments">
+        <Association Name="FK_Students_Departments">
           <End Role="Departments" Type="Self.Departments" Multiplicity="1" />
           <End Role="Students" Type="Self.Students" Multiplicity="*" />
           <ReferentialConstraint>
             <Principal Role="Departments">
-              <PropertyRef Name="Department_Id" />
+              <PropertyRef Name="Dept_Id" />
             </Principal>
             <Dependent Role="Students">
               <PropertyRef Name="Department_Id" />
@@ -38,7 +38,7 @@
         <EntityContainer Name="UMSModelStoreContainer">
           <EntitySet Name="Departments" EntityType="Self.Departments" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
-          <AssociationSet Name="FK_Students_Deparments" Association="Self.FK_Students_Deparments">
+          <AssociationSet Name="FK_Students_Departments" Association="Self.FK_Students_Departments">
             <End Role="Departments" EntitySet="Departments" />
             <End Role="Students" EntitySet="Students" />
           </AssociationSet>
@@ -50,30 +50,30 @@
       <Schema Namespace="UMSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityType Name="Department">
           <Key>
-            <PropertyRef Name="Department_Id" />
+            <PropertyRef Name="Dept_Id" />
           </Key>
-          <Property Name="Department_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-          <NavigationProperty Name="Students" Relationship="Self.FK_Students_Deparments" FromRole="Departments" ToRole="Students" />
+          <Property Name="Dept_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Dept_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="Students" Relationship="Self.FK_Students_Departments" FromRole="Departments" ToRole="Students" />
         </EntityType>
         <EntityType Name="Student">
           <Key>
             <PropertyRef Name="Student_Id" />
           </Key>
-          <Property Name="Student_Id" Type="Int32" Nullable="false" />
-          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-          <Property Name="Dob" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-          <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-          <Property Name="Cgpa" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Student_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Student_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Student_DOB" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Student_Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="Department_Id" Type="Int32" Nullable="false" />
-          <NavigationProperty Name="Department" Relationship="Self.FK_Students_Deparments" FromRole="Students" ToRole="Departments" />
+          <Property Name="Student_CGPA" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <NavigationProperty Name="Department" Relationship="Self.FK_Students_Departments" FromRole="Students" ToRole="Departments" />
         </EntityType>
-        <Association Name="FK_Students_Deparments">
+        <Association Name="FK_Students_Departments">
           <End Role="Departments" Type="Self.Department" Multiplicity="1" />
           <End Role="Students" Type="Self.Student" Multiplicity="*" />
           <ReferentialConstraint>
             <Principal Role="Departments">
-              <PropertyRef Name="Department_Id" />
+              <PropertyRef Name="Dept_Id" />
             </Principal>
             <Dependent Role="Students">
               <PropertyRef Name="Department_Id" />
@@ -83,7 +83,7 @@
         <EntityContainer Name="UMSEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Departments" EntityType="Self.Department" />
           <EntitySet Name="Students" EntityType="Self.Student" />
-          <AssociationSet Name="FK_Students_Deparments" Association="Self.FK_Students_Deparments">
+          <AssociationSet Name="FK_Students_Departments" Association="Self.FK_Students_Departments">
             <End Role="Departments" EntitySet="Departments" />
             <End Role="Students" EntitySet="Students" />
           </AssociationSet>
@@ -97,8 +97,8 @@
           <EntitySetMapping Name="Departments">
             <EntityTypeMapping TypeName="UMSModel.Department">
               <MappingFragment StoreEntitySet="Departments">
-                <ScalarProperty Name="Department_Id" ColumnName="Department_Id" />
-                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Dept_Id" ColumnName="Dept_Id" />
+                <ScalarProperty Name="Dept_Name" ColumnName="Dept_Name" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
@@ -106,11 +106,11 @@
             <EntityTypeMapping TypeName="UMSModel.Student">
               <MappingFragment StoreEntitySet="Students">
                 <ScalarProperty Name="Student_Id" ColumnName="Student_Id" />
-                <ScalarProperty Name="Name" ColumnName="Name" />
-                <ScalarProperty Name="Dob" ColumnName="Dob" />
-                <ScalarProperty Name="Gender" ColumnName="Gender" />
-                <ScalarProperty Name="Cgpa" ColumnName="Cgpa" />
+                <ScalarProperty Name="Student_Name" ColumnName="Student_Name" />
+                <ScalarProperty Name="Student_DOB" ColumnName="Student_DOB" />
+                <ScalarProperty Name="Student_Gender" ColumnName="Student_Gender" />
                 <ScalarProperty Name="Department_Id" ColumnName="Department_Id" />
+                <ScalarProperty Name="Student_CGPA" ColumnName="Student_CGPA" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

@@ -7,7 +7,7 @@ namespace UMSRouting.Models.ViewModel
 {
     public class DepartmentModel
     {
-        public int Department_Id { get; set; }
-        public string Name { get; set; }
+        public int Dept_Id { get; set; }
+        public string Dept_Name { get; set; }
     }
 }

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|d:\\github--pranta\\asp-.net\\final term(web api)\\umsrouting\\umsrouting\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|solutionrelative:umsrouting\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|d:\\github--pranta\\asp-.net\\final term(web api)\\umsrouting\\umsrouting\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\umsrouting\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|solutionrelative:umsrouting\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|d:\\github--pranta\\asp-.net\\final term(web api)\\umsrouting\\umsrouting\\models\\umsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|solutionrelative:umsrouting\\models\\umsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|d:\\github--pranta\\asp-.net\\final term(web api)\\umsrouting\\umsrouting\\models\\viewmodel\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|solutionrelative:umsrouting\\models\\viewmodel\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|d:\\github--pranta\\asp-.net\\final term(web api)\\umsrouting\\umsrouting\\models\\viewmodel\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|solutionrelative:umsrouting\\models\\viewmodel\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\umsrouting\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFC617-DEA6-462A-90EF-4F038F84C8AC}|UMSRouting\\UMSRouting.csproj|solutionrelative:umsrouting\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentModel.cs",
-              "DocumentMoniker": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Models\\ViewModel\\StudentModel.cs",
-              "RelativeDocumentMoniker": "UMSRouting\\Models\\ViewModel\\StudentModel.cs",
-              "ToolTip": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Models\\ViewModel\\StudentModel.cs",
-              "RelativeToolTip": "UMSRouting\\Models\\ViewModel\\StudentModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T08:57:25.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentModel.cs",
-              "DocumentMoniker": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Models\\ViewModel\\DepartmentModel.cs",
-              "RelativeDocumentMoniker": "UMSRouting\\Models\\ViewModel\\DepartmentModel.cs",
-              "ToolTip": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Models\\ViewModel\\DepartmentModel.cs",
-              "RelativeToolTip": "UMSRouting\\Models\\ViewModel\\DepartmentModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T08:56:51.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "UMSRouting\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Controllers\\StudentController.cs",
               "RelativeToolTip": "UMSRouting\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAgwE8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T08:56:41.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "UMSRouting\\Controllers\\DepartmentController.cs",
               "ToolTip": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "UMSRouting\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T08:56:20.269Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UMSModel.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Models\\UMSModel.edmx",
-              "RelativeDocumentMoniker": "UMSRouting\\Models\\UMSModel.edmx",
-              "ToolTip": "D:\\GitHub--Pranta\\ASP-.net\\Final Term(Web API)\\UMSRouting\\UMSRouting\\Models\\UMSModel.edmx [Diagram1]",
-              "RelativeToolTip": "UMSRouting\\Models\\UMSModel.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-07-06T08:55:14.869Z",
-              "EditorCaption": " [Diagram1]"
             }
           ]
         }
